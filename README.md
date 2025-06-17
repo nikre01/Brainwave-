@@ -1,4 +1,4 @@
 # Brainwave-
 Internship projects/ tasks
 <br>
-Author  -  NIKITA DHAKAR
+Author  -  Nikita Dhakar
